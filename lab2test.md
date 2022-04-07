@@ -1,1 +1,0 @@
-Can everybody hear me?
