@@ -1,4 +1,6 @@
-Everything is Awesome!
+#Everything is Awesome!
+Everything is Cool
+------------------
 ---
 *Italic*
 **Bold**
