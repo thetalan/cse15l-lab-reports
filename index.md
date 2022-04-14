@@ -12,6 +12,8 @@ Everything is Cool
 
 ***Having lots of fun with this***
 
+## Grocery List
+
 1. Water
 2. Milk
 3. Bread
